@@ -1,0 +1,71 @@
+
+.header{
+   padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 26px;
+    font-family: 'Arvo', courier, serif;
+    background-color: darkgray
+}
+.jumbotron {
+    text-align: center;
+    background-image: url('../assest/city.png');
+    background-size: cover;
+    color: dimgrey;
+}
+
+.btn-lg {
+    font-size: 36px;
+}
+
+ul.nav,
+.jumbotron h1 {
+    font-family: 'Arvo', courier, serif;
+}
+
+.homepage {
+    text-align: center;
+}
+
+.homepage h2,
+.homepage h3 {
+    font-family: 'Arvo', courier, serif;
+    color: #e74c3c;
+    text-transform: uppercase;
+}
+
+.homepage h2 {
+    font-size: 30px;
+}
+
+.homepage h3 {
+    font-size: 26px;
+}
+
+.homepage p {
+    font-size: 21px;
+    font-weight: 300;
+}
+
+.homepage a {
+    color: #e74c3c;
+}
+
+.homepage hr {
+    border-top: 1px solid #e74c3c;
+    width: 150px;
+    margin-top: 15px;
+}
+
+.homepage a:hover {
+    text-decoration: none;
+    color: #e74c3c;
+    opacity: 0.63;
+}
+#get-involved
+{
+    background-color:burlywood;
+    padding-top: 30px;
+    padding-bottom: 30px;
+        margin-top: 30px;
+    margin-bottom: 30px;
+}
